@@ -1,0 +1,17 @@
+.menu-main, .menu-main li {
+    display: inline;
+}
+
+.info {
+    color: green;
+}
+
+table, tr, th, td {
+    border: 1px solid;
+    padding: 5px;
+}
+
+.erreur{
+    color: red;
+}
+
